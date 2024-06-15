@@ -1,4 +1,4 @@
-api_key = 'AIzaSyDWMmbMJU9Znfg_ej2S5YGujHqF_6Wwx8g'
+api_key = 'YOUR_API_KEY'
 
 vid_id_mkbhd ='lRUtHtqfCGA'
 
