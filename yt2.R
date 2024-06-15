@@ -8,7 +8,7 @@ vid_id_iphone_mwtb = 's1XVb4mdELc'
 
 vid_id_iphone_d2d = 'CREM-mFuyyo'
 
-api_key = 'AIzaSyDWMmbMJU9Znfg_ej2S5YGujHqF_6Wwx8g'
+api_key = 'YOUR_API_KEY'
 
 #mkbhd_iphone
 
